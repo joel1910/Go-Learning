@@ -1,0 +1,29 @@
+🌟 What is Go (Golang)?
+
+Go, also called Golang, is an open-source programming language created at Google in 2009 by Robert Griesemer, Rob Pike, and Ken Thompson.
+
+It’s designed to be:
+
+Simple (easy to learn, clean syntax)
+
+Fast (compiled to machine code, runs close to C speed)
+
+Concurrent (built-in support for concurrency using goroutines and channels)
+
+Reliable (strong typing, memory safety, garbage collection)
+
+🔑 Key Features
+
+Compiled Language → Produces fast executables like C/C++.
+
+Concurrency Support → Uses goroutines and channels for lightweight multithreading.
+
+Static Typing → Type safety at compile-time, but with some flexibility.
+
+Garbage Collected → No need to manually free memory.
+
+Cross-platform → Can build for Linux, Windows, macOS from one machine.
+
+Rich Standard Library → Networking, web servers, crypto, JSON, etc.
+
+Fast Compilation → Much faster than Java/C++.
