@@ -71,4 +71,11 @@ func main() {
 	fmt.Println("Employee 1:", employee1)
 	fmt.Println("Employee 2", employee2)
 
+	var emp Employee
+
+	emp.name = "Test"
+	emp.role = "Tester"
+
+	fmt.Println(emp)
+
 }
